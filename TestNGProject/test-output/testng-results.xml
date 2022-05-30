@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T14:55:33 IST" name="Default suite" finished-at="2022-05-30T14:55:40 IST" duration-ms="6476">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T14:55:33 IST" name="Default test" finished-at="2022-05-30T14:55:40 IST" duration-ms="6476">
+      <class name="TestNG.EditboxusingTestNG">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:27 IST" name="launchbrowser" finished-at="2022-05-30T14:55:33 IST" duration-ms="5876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="Email()[pri:1, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:33 IST" name="Email" finished-at="2022-05-30T14:55:35 IST" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method signature="Append()[pri:2, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:35 IST" name="Append" finished-at="2022-05-30T14:55:37 IST" duration-ms="2114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Append -->
+        <test-method signature="DefaultText()[pri:3, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:37 IST" name="DefaultText" finished-at="2022-05-30T14:55:37 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultText -->
+        <test-method signature="clear()[pri:4, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:37 IST" name="clear" finished-at="2022-05-30T14:55:37 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method signature="confirmbox()[pri:5, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:37 IST" name="confirmbox" finished-at="2022-05-30T14:55:40 IST" duration-ms="2053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmbox -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestNG.EditboxusingTestNG@3668d4]" started-at="2022-05-30T14:55:40 IST" name="closebrowser" finished-at="2022-05-30T14:55:42 IST" duration-ms="2087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- TestNG.EditboxusingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
