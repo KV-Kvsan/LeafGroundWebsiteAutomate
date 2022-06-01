@@ -1,2 +1,2 @@
-# LeafgroundWebsiteAutomate
-This repository contains 6modules from the leafground website and automating checkbox and editbox pages using TestNG Framework
+"Leaf ground website"- I have automated Checkbox, Editbox, Radiobutton, AlertPage, Explicit wait, Scroll up and scroll down pages and Automated using Checkbox and Edit box pages using TestNG Framework
+
