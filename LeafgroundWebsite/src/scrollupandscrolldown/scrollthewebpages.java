@@ -22,9 +22,9 @@ public class scrollthewebpages {
 		Thread.sleep(3000);
 		executor.executeScript("window.scroll(0,-450)", "");
 		Thread.sleep(5000);
-		executor.executeScript("window.scrollTo(0, document.body.scrollHeight)");
+		executor.executeScript("window.scrollTo(0, document.body.scrollHeight)"); //Scroll to the bottom of the page
 		Thread.sleep(3000);
-		executor.executeScript("window.scrollTo(0,0)");
+		executor.executeScript("window.scrollTo(0,0)"); //Scroll to the top of the page
 		Thread.sleep(3000);
 		driver.close();
 
